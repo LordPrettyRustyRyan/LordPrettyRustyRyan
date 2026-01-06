@@ -22,12 +22,10 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=LordPrettyRustyRyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LordPrettyRustyRyan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrettyRustyRyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LordPrettyRustyRyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="display:flex; gap:12px; flex-wrap:wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LordPrettyRustyRyan&theme=dark&hide_border=false" />
+</div>
 
 <!--
 **LordPrettyRustyRyan/LordPrettyRustyRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LordPrettyRustyRyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
