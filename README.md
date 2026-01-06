@@ -5,7 +5,6 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ---
 
 # Tech Stack:
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
@@ -27,9 +26,11 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ---
 
 ## GitHub Stats
-![Stats](https://github-contributor-stats.vercel.app/api?username=LordPrettyRustyRyan&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=LordPrettyRustyRyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LordPrettyRustyRyan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrettyRustyRyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Languages](https://github-contributor-stats.vercel.app/api/top-langs/?username=LordPrettyRustyRyan&layout=compact&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=github_dark)
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LordPrettyRustyRyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
