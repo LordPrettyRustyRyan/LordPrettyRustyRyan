@@ -1,4 +1,4 @@
-## Hello There
+### Hello There
 I'm a **Creative Full-Stack | MERN Developer** with hands-on experience building modern web applications and responsive websites.
 I combine **strong technical skills** with **design-driven thinking** to deliver visually appealing, intuitive, and scalable interfaces.  
 
@@ -14,6 +14,7 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
@@ -21,7 +22,7 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats:
 <table>
   <tr>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
