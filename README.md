@@ -1,8 +1,41 @@
 ### Hello There
-I'm a **Python | Full-Stack Web Developer** working on automation, APIs, and modern MERN applications.
-I combine **strong technical skills** with **design-driven thinking** to deliver visually appealing, intuitive, and scalable interfaces.  
+I'm a **Software Engineer** building end-to-end software products across web, desktop, and mobile platforms.
+I'm constantly tinkering, sminkering, blinkering ideas into tools people can actually use.
+Welcome to my Profile!
 
-## Tech Stack:
+<div align="center" width="100%">
+<img width="1280" height="511" alt="banner" src="https://github.com/user-attachments/assets/54831d7c-df59-4743-984d-9f9e9db51c0d" />
+</div>
+
+<br/>
+
+<div align="center" width="100%">
+  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,reactnative,expo,python,fastapi,flask,tailwind,nodejs,expressjs,mongodb,mysql&theme=dark&titles=true)](#)
+
+</div>
+
+<!-- <img  width="50%" height="50%" alt="8b7f735c2684ba278809dac40a0d853c" src="https://github.com/user-attachments/assets/2a1d9fb7-b4dc-4e57-9411-2298a863883b" /> -->
+
+```python
+class Sidharath:
+    def __init__(self):
+        self.name        = "Sidharath"
+        self.role        = "Software Engineer"
+        self.education   = ["MCA @ IGNOU (2026-28)",
+                            "BCA @ PGGC46, Panjab University (2021-24)"]
+
+    @property
+    def shipped(self):
+        return {
+            "mobile_apps": "Voyage, Nimbus",
+            "web_apps": "Learnics, Kame Kitchen, Nimbus, Sonic, Horizon Drive, Pacman",
+            "desktop_apps": "Replica",
+        }
+```
+
+<!--
+## Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,32 +62,16 @@ I combine **strong technical skills** with **design-driven thinking** to deliver
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+-->
 
 ## GitHub Stats:
-<table>
+<table align="center">
   <tr>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark" />
     </td>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=LordPrettyRustyRyan&theme=dark&hide_border=false" />
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LordPrettyRustyRyan&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
     </td>
   </tr>
 </table>
-
-<!--
-**LordPrettyRustyRyan/LordPrettyRustyRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LordPrettyRustyRyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
