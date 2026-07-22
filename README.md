@@ -4,7 +4,7 @@ I'm constantly tinkering, sminkering, blinkering ideas into tools people can act
 Welcome to my Profile!
 
 <div align="center" width="100%">
-<img width="1280" height="511" alt="banner" src="https://github.com/user-attachments/assets/54831d7c-df59-4743-984d-9f9e9db51c0d" />
+<img width="1280" height="511" alt="imaginebanner" src="https://github.com/user-attachments/assets/5d5e9681-3421-4254-9536-6cce6c6b3cfd" />
 </div>
 
 <br/>
