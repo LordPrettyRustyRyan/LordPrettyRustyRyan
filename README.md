@@ -68,7 +68,7 @@ class Sidharath:
 <table align="center">
   <tr>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark&exclude=html,css" />
     </td>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LordPrettyRustyRyan&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
