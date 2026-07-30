@@ -29,8 +29,9 @@ class Sidharath:
     def shipped(self):
         return {
             "mobile_apps": "Voyage, Nimbus",
-            "web_apps": "Learnics, Kame Kitchen, Nimbus, Sonic, Horizon Drive, Pacman",
+            "web_apps": "Learnics, Kame Kitchen, Nimbus",
             "desktop_apps": "Replica",
+            "games": "Imagine Runner, Horizon Drive, Pacman",
         }
 ```
 
