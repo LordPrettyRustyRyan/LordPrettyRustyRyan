@@ -31,7 +31,7 @@ class Sidharath:
             "mobile_apps": "Voyage, Nimbus",
             "web_apps": "Learnics, Kame Kitchen, Nimbus",
             "desktop_apps": "Replica",
-            "games": "Imagine Runner, Horizon Drive, Pacman",
+            "games": "Odyssey, Horizon Drive, Pacman",
         }
 ```
 
