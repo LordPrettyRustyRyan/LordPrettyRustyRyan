@@ -14,11 +14,10 @@ Welcome to my Profile!
 <div align="center" width="100%">
   
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,reactnative,expo,python,fastapi,flask,tailwind,nodejs,expressjs,mongodb,mysql&theme=dark&titles=true)](#)
-
 </div>
 
 <!-- <img  width="50%" height="50%" alt="8b7f735c2684ba278809dac40a0d853c" src="https://github.com/user-attachments/assets/2a1d9fb7-b4dc-4e57-9411-2298a863883b" /> -->
-
+  
 ```python
 class Sidharath:
     def __init__(self):
@@ -71,10 +70,14 @@ class Sidharath:
 <table align="center">
   <tr>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark&exclude=html,css" />
+      <a href="https://sidharthrajghai.vercel.app/">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordPrettyRustyRyan&theme=dark&exclude=html,css" />
+      </a>
     </td>
     <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LordPrettyRustyRyan&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+      <a href="https://sidharthrajghai.vercel.app/">
+        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LordPrettyRustyRyan&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+      </a>
     </td>
   </tr>
 </table>
